@@ -5,14 +5,6 @@ using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-[JsonConverter(typeof(JsonStringEnumConverter))]
-public enum OrderType
-{
-    SEND,
-    RECEIVE,
-    CANCEL
-}
-
 namespace api.Models
 {
     [Table("Order")]
@@ -25,7 +17,7 @@ namespace api.Models
         public required int PickupAddressId { get; set; }
         public required int ReceiverId { get; set; }
         public required int StarId { get; set; }
-        public required OrderType Type { get; set; }
+        public required int TypeId { get; set; }
         public required DateTime CollectedFromBusinessDate { get; set; }
         public required DateTime CreatedAtDate { get; set; }
         public required DateTime UpdatedAtDate { get; set; }
@@ -36,5 +28,6 @@ namespace api.Models
         public virtual Address? PickupAddress { get; set; }
         public virtual Receiver? Receiver { get; set; }
         public virtual Star? Star { get; set; }
+        public virtual OrderType? OrderType { get; set; }
     }
 }

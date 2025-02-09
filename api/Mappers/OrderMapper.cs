@@ -9,7 +9,7 @@ namespace api.Mappers
 {
     public static class OrderMapper
     {
-        public static Order ToOrder(this OrderCreateDto orderCreateDto, int codId, int confirmId, int dropOffAddressId, int pickupAddressId, int receiverId, int starId)
+        public static Order ToOrder(this OrderCreateDto orderCreateDto, int codId, int confirmId, int dropOffAddressId, int pickupAddressId, int receiverId, int starId, int typeId)
         {
             return new Order
             {
@@ -19,7 +19,7 @@ namespace api.Mappers
                 PickupAddressId = pickupAddressId,
                 ReceiverId = receiverId,
                 StarId = starId,
-                Type = orderCreateDto.Type,
+                TypeId = typeId,
                 CollectedFromBusinessDate =  orderCreateDto.CollectedFromBusinessDate,
                 CreatedAtDate = orderCreateDto.CreatedAtDate,
                 UpdatedAtDate = orderCreateDto.UpdatedAtDate,
@@ -38,7 +38,7 @@ namespace api.Mappers
                 PickupAddressId = order.PickupAddressId,
                 ReceiverId = order.ReceiverId,
                 StarId = order.StarId,
-                Type = order.Type,
+                TypeId = order.TypeId,
                 CollectedFromBusinessDate = order.CollectedFromBusinessDate,
                 CreatedAtDate = order.CreatedAtDate,
                 UpdatedAtDate = order.UpdatedAtDate,

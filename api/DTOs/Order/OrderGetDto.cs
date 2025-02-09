@@ -15,7 +15,7 @@ namespace api.DTOs.Order
         public required int PickupAddressId { get; set; }
         public required int ReceiverId { get; set; }
         public required int StarId { get; set; }
-        public required OrderType Type { get; set; }
+        public required int TypeId { get; set; }
         public required DateTime CollectedFromBusinessDate { get; set; }
         public required DateTime CreatedAtDate { get; set; }
         public required DateTime UpdatedAtDate { get; set; }

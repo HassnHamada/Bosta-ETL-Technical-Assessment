@@ -17,7 +17,8 @@ namespace api.Service
         private readonly IPaymentRepository _paymentRepository;
         private readonly AddressService _addressService;
         private readonly IAddressRepository _addressRepository;
-        public OrderService(AddressService addressService, IAddressRepository addressRepository, IPaymentRepository paymentRepository, IConfirmRepository confirmRepository, IReceiverRepository receiverRepository, IStarRepository starRepository)
+        private readonly IOrderTypeRepository _orderTypeRepository;
+        public OrderService(AddressService addressService, IAddressRepository addressRepository, IPaymentRepository paymentRepository, IConfirmRepository confirmRepository, IReceiverRepository receiverRepository, IStarRepository starRepository, IOrderTypeRepository orderTypeRepository)
         {
             _starRepository = starRepository;
             _confirmRepository = confirmRepository;
@@ -25,6 +26,7 @@ namespace api.Service
             _paymentRepository = paymentRepository;
             _addressService = addressService;
             _addressRepository = addressRepository;
+            _orderTypeRepository = orderTypeRepository;
         }
 
         public async Task<Order> NewAsync(OrderCreateDto orderCreateDto)
@@ -37,7 +39,12 @@ namespace api.Service
             var pickupAddress = await _addressService.NewAsync(orderCreateDto.PickupAddress);
             dropOffAddress = await _addressRepository.CreateAsync(dropOffAddress);
             pickupAddress = await _addressRepository.CreateAsync(pickupAddress);
-            var order = orderCreateDto.ToOrder(payment.Id, confirm.Id, dropOffAddress.Id, pickupAddress.Id, receiver.Id, star.Id);
+            var orderType = await _orderTypeRepository.ReadAsync(orderCreateDto.Type.Type);
+            if (orderType == null)
+            {
+                orderType = await _orderTypeRepository.CreateAsync(orderCreateDto.Type.ToOrderType());
+            }
+            var order = orderCreateDto.ToOrder(payment.Id, confirm.Id, dropOffAddress.Id, pickupAddress.Id, receiver.Id, star.Id, orderType.Id);
             return order;
         }
     }

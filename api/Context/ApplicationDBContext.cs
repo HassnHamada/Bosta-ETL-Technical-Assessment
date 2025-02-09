@@ -23,6 +23,7 @@ namespace api.Context
         public DbSet<Receiver> Receiver { get; set; }
         public DbSet<Star> Star { get; set; }
         public DbSet<Zone> Zone { get; set; }
+        public DbSet<OrderType> OrderTypes { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
@@ -85,6 +86,12 @@ namespace api.Context
                 .HasOne(o => o.PickupAddress)
                 .WithMany(a => a.PickupOrders)
                 .HasForeignKey(o => o.PickupAddressId);
+
+            // Order - OrderType relationship
+            builder.Entity<Order>()
+                .HasOne(o => o.OrderType)
+                .WithMany(ot => ot.Orders)
+                .HasForeignKey(o => o.TypeId);
 
             // Add unique constraint
             builder.Entity<City>().HasIndex(c => c.Name).IsUnique();
