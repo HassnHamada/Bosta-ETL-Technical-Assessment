@@ -1,0 +1,67 @@
+{
+    "cod": {
+        "amount": 289.0,
+        "isPaid": false,
+        "paidAmount": 333.0
+    },
+    "dropOffAddress": {
+        "floor": 6,
+        "apartment": 4,
+        "firstLine": "94382 Dawn Plain, Lake Aletha",
+        "secondline": "125 Leonor Mills, New Stellaton",
+        "district": {
+            "name": "Wisconsin"
+        },
+        "city": {
+            "name": "Fort Molliefield"
+        },
+        "zone": {
+            "name": "4998 Duke Street"
+        },
+        "country": {
+            "name": "Reunion"
+        },
+        "latitude": -14.9644,
+        "longitude": 110.7359
+    },
+    "pickupAddress": {
+        "floor": 6,
+        "apartment": 18,
+        "firstLine": "107 Woodlands, West Elliott",
+        "secondLine": "2828 Nathanial Shores, Mariamfort",
+        "district": {
+            "name": "Massachusetts"
+        },
+        "city": {
+            "name": "Shayneland"
+        },
+        "zone": {
+            "name": "47704 Grant Harbors"
+        },
+        "country": {
+            "name": "Albania"
+        },
+        "latitude": 66.2391,
+        "longitude": 32.8212
+    },
+    "receiver": {
+        "firstName": "Lillian",
+        "lastName": "Kunze",
+        "phone": "1-978-280-3714 x2033"
+    },
+    "star": {
+        "name": "Pearline Monahan",
+        "phone": "956-902-1002 x27979"
+    },
+    "tracker": "67a660b9d10f70d47ebf18ec",
+    "type": {
+        "type": "RECEIVE"
+    },
+    "collectedFromBusinessDate": "1999-07-24T04:53:02+03:00",
+    "createdAtDate": "2013-06-26T10:15:22+02:00",
+    "updatedAtDate": "2011-12-21T16:12:00+02:00",
+    "confirm": {
+        "isConfirmed": false,
+        "numberOfSmsTrials": 5
+    }
+}
