@@ -98,6 +98,7 @@ namespace api.Context
             builder.Entity<Country>().HasIndex(c => c.Name).IsUnique();
             builder.Entity<District>().HasIndex(d => d.Name).IsUnique();
             builder.Entity<Zone>().HasIndex(z => z.Name).IsUnique();
+            builder.Entity<OrderType>().HasIndex(ot => ot.Type).IsUnique();
         }
 
     }
