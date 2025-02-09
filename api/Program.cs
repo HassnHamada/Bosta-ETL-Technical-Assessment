@@ -24,6 +24,7 @@ builder.Services.AddScoped<IDistrictRepository, DistrictRepository>();
 builder.Services.AddScoped<IZoneRepository, ZoneRepository>();
 builder.Services.AddScoped<IAddressRepository, AddressRepository>();
 builder.Services.AddScoped<AddressService>();
+builder.Services.AddScoped<OrderService>();
 
 var app = builder.Build();
 
