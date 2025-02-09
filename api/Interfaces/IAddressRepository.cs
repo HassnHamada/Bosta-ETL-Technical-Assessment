@@ -10,6 +10,7 @@ namespace api.Interfaces
     {
         Task<Address> CreateAsync(Address address);
         Task<Address?> ReadAsync(int id);
+        Task<List<Address>> ReadAllAsync();
         Task<Address?> UpdateAsync(int id, Address address);
         Task<Address?> DeleteAsync(int id);
     }

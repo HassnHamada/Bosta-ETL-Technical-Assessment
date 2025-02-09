@@ -28,6 +28,11 @@ namespace api.Repository
             throw new NotImplementedException();
         }
 
+        public async Task<List<Receiver>> ReadAllAsync()
+        {
+            return await _context.Receiver.ToListAsync();
+        }
+
         public async Task<Receiver?> ReadAsync(int id)
         {
             return await _context.Receiver.SingleOrDefaultAsync(r => r.Id == id);

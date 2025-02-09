@@ -28,6 +28,11 @@ namespace api.Repository
             throw new NotImplementedException();
         }
 
+        public async Task<List<Country>> ReadAllAsync()
+        {
+            return await _context.Country.ToListAsync();
+        }
+
         public async Task<Country?> ReadAsync(int id)
         {
             return await _context.Country.SingleOrDefaultAsync(c => c.Id == id);

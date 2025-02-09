@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToCountryGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _countryRepository.ReadAllAsync();
+            var resultDto = result.Select(c => c.ToCountryGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] CountryCreateDto countryCreateDto)
         {

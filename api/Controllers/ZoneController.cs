@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToZoneGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _zoneRepository.ReadAllAsync();
+            var resultDto = result.Select(z => z.ToZoneGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] ZoneCreateDto zoneCreateDto)
         {

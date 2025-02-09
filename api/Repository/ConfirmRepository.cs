@@ -29,6 +29,11 @@ namespace api.Repository
             throw new NotImplementedException();
         }
 
+        public async Task<List<Confirm>> ReadAllAsync()
+        {
+            return await _context.Confirm.ToListAsync();
+        }
+
         public async Task<Confirm?> ReadAsync(int id)
         {
             return await _context.Confirm.SingleOrDefaultAsync(c => c.Id == id);

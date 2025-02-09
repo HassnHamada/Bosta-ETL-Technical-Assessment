@@ -11,6 +11,7 @@ namespace api.Interfaces
         Task<District> CreateAsync(District district);
         Task<District?> ReadAsync(int id);
         Task<District?> ReadAsync(string name);
+        Task<List<District>> ReadAllAsync();
         Task<District?> UpdateAsync(int id, District district);
         Task<District?> DeleteAsync(int id);
     }

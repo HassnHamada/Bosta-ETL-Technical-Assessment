@@ -10,6 +10,7 @@ namespace api.Interfaces
     {
         Task<Star> CreateAsync(Star star);
         Task<Star?> ReadAsync(int id);
+        Task<List<Star>> ReadAllAsync();
         Task<Star?> UpdateAsync(int id, Star star);
         Task<Star?> DeleteAsync(int id);
     }

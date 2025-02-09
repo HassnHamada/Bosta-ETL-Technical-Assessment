@@ -10,6 +10,7 @@ namespace api.Interfaces
     {
         Task<Receiver> CreateAsync(Receiver receiver);
         Task<Receiver?> ReadAsync(int id);
+        Task<List<Receiver>> ReadAllAsync();
         Task<Receiver?> UpdateAsync(int id, Receiver receiver);
         Task<Receiver?> DeleteAsync(int id);
     }

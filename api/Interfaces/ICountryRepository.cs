@@ -11,6 +11,7 @@ namespace api.Interfaces
         Task<Country> CreateAsync(Country country);
         Task<Country?> ReadAsync(int id);
         Task<Country?> ReadAsync(string name);
+        Task<List<Country>> ReadAllAsync();
         Task<Country?> UpdateAsync(int id, Country country);
         Task<Country?> DeleteAsync(int id);
     }

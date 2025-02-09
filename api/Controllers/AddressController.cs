@@ -31,7 +31,13 @@ namespace api.Controllers
             }
             return Ok(result.ToAddressGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _addressRepository.ReadAllAsync();
+            var resultDto = result.Select(a => a.ToAddressGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] AddressCreateDto addressCreateDto)
         {

@@ -10,6 +10,7 @@ namespace api.Interfaces
     {
         Task<Confirm> CreateAsync(Confirm confirm);
         Task<Confirm?> ReadAsync(int id);
+        Task<List<Confirm>> ReadAllAsync();
         Task<Confirm?> UpdateAsync(int id, Confirm confirm);
         Task<Confirm?> DeleteAsync(int id);
     }

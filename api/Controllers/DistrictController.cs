@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToDistrictGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _districtRepository.ReadAllAsync();
+            var resultDto = result.Select(d => d.ToDistrictGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] DistrictCreateDto districtCreateDto)
         {

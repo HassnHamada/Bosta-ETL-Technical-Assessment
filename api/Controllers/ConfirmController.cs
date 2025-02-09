@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToConfirmGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _confirmRepository.ReadAllAsync();
+            var resultDto = result.Select(c => c.ToConfirmGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] ConfirmCreateDto confirmCreateDto)
         {

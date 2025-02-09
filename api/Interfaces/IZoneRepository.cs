@@ -11,6 +11,7 @@ namespace api.Interfaces
         Task<Zone> CreateAsync(Zone zone);
         Task<Zone?> ReadAsync(int id);
         Task<Zone?> ReadAsync(string name);
+        Task<List<Zone>> ReadAllAsync();
         Task<Zone?> UpdateAsync(int id, Zone zone);
         Task<Zone?> DeleteAsync(int id);
     }

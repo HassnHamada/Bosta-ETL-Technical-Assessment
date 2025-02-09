@@ -28,6 +28,11 @@ namespace api.Repository
             throw new NotImplementedException();
         }
 
+        public async Task<List<Payment>> ReadAllAsync()
+        {
+            return await _context.Payment.ToListAsync();
+        }
+
         public async Task<Payment?> ReadAsync(int id)
         {
             return await _context.Payment.SingleOrDefaultAsync(p => p.Id == id);

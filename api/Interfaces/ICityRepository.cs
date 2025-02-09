@@ -11,6 +11,7 @@ namespace api.Interfaces
         Task<City> CreateAsync(City city);
         Task<City?> ReadAsync(int id);
         Task<City?> ReadAsync(string name);
+        Task<List<City>> ReadAllAsync();
         Task<City?> UpdateAsync(int id, City city);
         Task<City?> DeleteAsync(int id);
     }

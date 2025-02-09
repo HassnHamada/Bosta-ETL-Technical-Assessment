@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToReceiverGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _receiverRepository.ReadAllAsync();
+            var resultDto = result.Select(r => r.ToReceiverGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] ReceiverCreateDto receiverCreateDto)
         {

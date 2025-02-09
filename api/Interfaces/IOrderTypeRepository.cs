@@ -11,6 +11,7 @@ namespace api.Interfaces
         Task<OrderType> CreateAsync(OrderType orderType);
         Task<OrderType?> ReadAsync(int id);
         Task<OrderType?> ReadAsync(string type);
+        Task<List<OrderType>> ReadAllAsync();
         Task<OrderType?> UpdateAsync(int id, OrderType orderType);
         Task<OrderType?> DeleteAsync(int id);
     }

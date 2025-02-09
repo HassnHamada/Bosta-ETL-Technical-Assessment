@@ -10,6 +10,7 @@ namespace api.Interfaces
     {
         Task<Payment> CreateAsync(Payment payment);
         Task<Payment?> ReadAsync(int id);
+        Task<List<Payment>> ReadAllAsync();
         Task<Payment?> UpdateAsync(int id, Payment payment);
         Task<Payment?> DeleteAsync(int id);
     }

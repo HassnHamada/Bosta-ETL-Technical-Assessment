@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToPaymentGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _paymentRepository.ReadAllAsync();
+            var resultDto = result.Select(p => p.ToPaymentGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] PaymentCreateDto paymentCreateDto)
         {

@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToStarGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _starRepository.ReadAllAsync();
+            var resultDto = result.Select(s => s.ToStarGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] StarCreateDto starCreateDto)
         {

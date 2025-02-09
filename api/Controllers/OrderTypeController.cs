@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToOrderTypeGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _orderTypeRepository.ReadAllAsync();
+            var resultDto = result.Select(ot => ot.ToOrderTypeGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] OrderTypeCreateDto orderTypeCreateDto)
         {

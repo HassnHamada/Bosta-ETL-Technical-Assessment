@@ -28,7 +28,13 @@ namespace api.Controllers
             }
             return Ok(result.ToCityGetDto());
         }
-
+        [HttpGet("all")]
+        public async Task<IActionResult> ReadAsync()
+        {
+            var result = await _cityRepository.ReadAllAsync();
+            var resultDto = result.Select(c => c.ToCityGetDto());
+            return Ok(resultDto);
+        }
         [HttpPost("new")]
         public async Task<IActionResult> CreateAsync([FromBody] CityCreateDto cityCreateDto)
         {
