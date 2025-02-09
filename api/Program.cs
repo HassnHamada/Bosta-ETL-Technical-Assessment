@@ -1,6 +1,7 @@
 using api.Context;
 using api.Interfaces;
 using api.Repository;
+using api.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,6 +23,7 @@ builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 builder.Services.AddScoped<IDistrictRepository, DistrictRepository>();
 builder.Services.AddScoped<IZoneRepository, ZoneRepository>();
 builder.Services.AddScoped<IAddressRepository, AddressRepository>();
+builder.Services.AddScoped<AddressService>();
 
 var app = builder.Build();
 
