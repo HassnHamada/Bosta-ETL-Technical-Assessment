@@ -1,3 +1,5 @@
 .env
 .vscode
 *.sln
+__pycache__
+*.ipynb
