@@ -1,0 +1,85 @@
+{
+  "result": [
+    "repeat(1000)",
+    {
+      "_id": "objectId()",
+      "cod": {
+        "amount": "int(100,500)",
+        "isPaidBack": "enum(true, false)",
+        "collectedAmount": "int(100,500)"
+      },
+      "collectedFromBusiness": {
+        "$date": "date()"
+      },
+      "confirmation": {
+        "isConfirmed": "enum(true, false)",
+        "numberOfSmsTrials": "int(0,5)"
+      },
+      "createdAt": {
+        "$date": "date()"
+      },
+      "dropOffAddress": {
+        "floor": "int(1,10)",
+        "apartment": "int(1,50)",
+        "firstLine": "street(), city()",
+        "secondline": "street(), city()",
+        "district": "state()",
+        "city": {
+          "_id": "objectId()",
+          "name": "city()"
+        },
+        "zone": {
+          "_id": "objectId()",
+          "name": "street()"
+        },
+        "country": {
+          "_id": "objectId()",
+          "name": "country()",
+          "code": "country()"
+        },
+        "geolocation": ["latitude()", "longitude()"]
+      },
+      "pickupAddress": {
+        "floor": "int(1,10)",
+        "apartment": "int(1,50)",
+        "firstLine": "street(), city()",
+        "secondLine": "street(), city()",
+        "district": "state()",
+        "city": {
+          "_id": "objectId()",
+          "name": "city()"
+        },
+        "zone": {
+          "_id": "objectId()",
+          "name": "street()"
+        },
+        "country": {
+          "_id": "objectId()",
+          "name": "country()",
+          "code": "country()"
+        },
+        "geoLocation": ["latitude()", "longitude()"]
+      },
+      "receiver": {
+        "_id": "objectId()",
+        "firstName": "firstName()",
+        "lastName": "lastName()",
+        "phone": "phoneNumber()"
+      },
+      "star": {
+        "_id": "objectId()",
+        "name": "firstName() lastName()",
+        "phone": "phoneNumber()"
+      },
+      "tracker": {
+        "trackerId": "objectId()",
+        "order_id": "int(1000000,9999999)"
+      },
+      "order_id": "int(1000000,9999999)",
+      "type": "enum(SEND, RECEIVE, CANCEL)",
+      "updatedAt": {
+        "$date": "date()"
+      }
+    }
+  ]
+}
