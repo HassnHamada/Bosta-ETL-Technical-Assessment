@@ -18,8 +18,8 @@ namespace api.Models
         public required int CityId { get; set; }
         public required int ZoneId { get; set; }
         public required int CountryId { get; set; }
-        public required float latitude { get; set; }
-        public required float longitude { get; set; }
+        public required float Latitude { get; set; }
+        public required float Longitude { get; set; }
         public virtual District? District { get; set; }
         public virtual City? City { get; set; }
         public virtual Zone? Zone { get; set; }

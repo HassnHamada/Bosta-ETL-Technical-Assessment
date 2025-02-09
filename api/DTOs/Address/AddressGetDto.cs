@@ -12,8 +12,8 @@ namespace api.DTOs.Address
         public required int Apartment { get; set; }
         public required string FirstLine { get; set; }
         public required string Secondline { get; set; }
-        public required float latitude { get; set; }
-        public required float longitude { get; set; }
+        public required float Latitude { get; set; }
+        public required float Longitude { get; set; }
         public required int DistrictId { get; set; }
         public required int CityId { get; set; }
         public required int ZoneId { get; set; }
