@@ -37,19 +37,19 @@ namespace api.Context
             builder.Entity<Address>()
                 .HasOne(a => a.City)
                 .WithMany(c => c.Addresses)
-                .HasForeignKey(a => a.DistrictId);
+                .HasForeignKey(a => a.CityId);
 
             // Address - Zone relationship
             builder.Entity<Address>()
                 .HasOne(a => a.Zone)
                 .WithMany(z => z.Addresses)
-                .HasForeignKey(a => a.DistrictId);
+                .HasForeignKey(a => a.ZoneId);
 
             // Address - Country relationship
             builder.Entity<Address>()
                 .HasOne(a => a.Country)
                 .WithMany(c => c.Addresses)
-                .HasForeignKey(a => a.DistrictId);
+                .HasForeignKey(a => a.CountryId);
 
             // Order - Payment relationship
             builder.Entity<Order>()
@@ -77,9 +77,14 @@ namespace api.Context
 
             // Order - Address relationship
             builder.Entity<Order>()
+                .HasOne(o => o.DropOffAddress)
+                .WithMany(a => a.DropOffOrders)
+                .HasForeignKey(o => o.DropOffAddressId);
+
+            builder.Entity<Order>()
                 .HasOne(o => o.PickupAddress)
-                .WithMany(a => a.Order)
-                .HasForeignKey(o => o.StarId);
+                .WithMany(a => a.PickupOrders)
+                .HasForeignKey(o => o.PickupAddressId);
 
             // Add unique constraint
             builder.Entity<City>().HasIndex(c => c.Name).IsUnique();
