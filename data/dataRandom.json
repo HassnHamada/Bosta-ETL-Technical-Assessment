@@ -35,7 +35,7 @@
         "name": "Togo",
         "code": "Reunion"
       },
-      "geolocation": ["-14.0234", "27.0093"]
+      "geoLocation": ["-14.0234", "27.0093"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -115,7 +115,7 @@
         "name": "Lebanon",
         "code": "Antarctica"
       },
-      "geolocation": ["43.6173", "160.5799"]
+      "geoLocation": ["43.6173", "160.5799"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -195,7 +195,7 @@
         "name": "Christmas Island",
         "code": "Malawi"
       },
-      "geolocation": ["85.9523", "92.6461"]
+      "geoLocation": ["85.9523", "92.6461"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -275,7 +275,7 @@
         "name": "Ukraine",
         "code": "Papua New Guinea"
       },
-      "geolocation": ["-81.5185", "165.6671"]
+      "geoLocation": ["-81.5185", "165.6671"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -355,7 +355,7 @@
         "name": "Svalbard & Jan Mayen Islands",
         "code": "Serbia"
       },
-      "geolocation": ["-10.4018", "-77.8987"]
+      "geoLocation": ["-10.4018", "-77.8987"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -435,7 +435,7 @@
         "name": "Cayman Islands",
         "code": "Sudan"
       },
-      "geolocation": ["35.9526", "127.8023"]
+      "geoLocation": ["35.9526", "127.8023"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -515,7 +515,7 @@
         "name": "Norfolk Island",
         "code": "Saint Lucia"
       },
-      "geolocation": ["63.6472", "144.7893"]
+      "geoLocation": ["63.6472", "144.7893"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -595,7 +595,7 @@
         "name": "Cook Islands",
         "code": "Philippines"
       },
-      "geolocation": ["-40.142", "-156.0056"]
+      "geoLocation": ["-40.142", "-156.0056"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -675,7 +675,7 @@
         "name": "Myanmar",
         "code": "Angola"
       },
-      "geolocation": ["-71.8095", "-101.3255"]
+      "geoLocation": ["-71.8095", "-101.3255"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -755,7 +755,7 @@
         "name": "Denmark",
         "code": "Poland"
       },
-      "geolocation": ["-34.1016", "109.1548"]
+      "geoLocation": ["-34.1016", "109.1548"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -835,7 +835,7 @@
         "name": "Poland",
         "code": "Myanmar"
       },
-      "geolocation": ["-50.2776", "164.4391"]
+      "geoLocation": ["-50.2776", "164.4391"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -915,7 +915,7 @@
         "name": "Thailand",
         "code": "Bosnia and Herzegovina"
       },
-      "geolocation": ["48.8991", "-125.4494"]
+      "geoLocation": ["48.8991", "-125.4494"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -995,7 +995,7 @@
         "name": "Palestine",
         "code": "Gibraltar"
       },
-      "geolocation": ["-0.1109", "-0.3974"]
+      "geoLocation": ["-0.1109", "-0.3974"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -1075,7 +1075,7 @@
         "name": "Democratic People's Republic of Korea",
         "code": "Nepal"
       },
-      "geolocation": ["-19.608", "-71.1007"]
+      "geoLocation": ["-19.608", "-71.1007"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -1155,7 +1155,7 @@
         "name": "Bonaire, Sint Eustatius and Saba",
         "code": "Romania"
       },
-      "geolocation": ["-78.5691", "-146.2689"]
+      "geoLocation": ["-78.5691", "-146.2689"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -1235,7 +1235,7 @@
         "name": "Comoros",
         "code": "Lesotho"
       },
-      "geolocation": ["25.4073", "156.3696"]
+      "geoLocation": ["25.4073", "156.3696"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -1315,7 +1315,7 @@
         "name": "Fiji",
         "code": "Ireland"
       },
-      "geolocation": ["-39.1814", "94.0474"]
+      "geoLocation": ["-39.1814", "94.0474"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -1395,7 +1395,7 @@
         "name": "Mayotte",
         "code": "Sierra Leone"
       },
-      "geolocation": ["-79.9173", "-155.9777"]
+      "geoLocation": ["-79.9173", "-155.9777"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -1475,7 +1475,7 @@
         "name": "Azerbaijan",
         "code": "Venezuela"
       },
-      "geolocation": ["76.6473", "32.091"]
+      "geoLocation": ["76.6473", "32.091"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -1555,7 +1555,7 @@
         "name": "Honduras",
         "code": "Paraguay"
       },
-      "geolocation": ["25.3727", "-105.0251"]
+      "geoLocation": ["25.3727", "-105.0251"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -1635,7 +1635,7 @@
         "name": "Switzerland",
         "code": "Lebanon"
       },
-      "geolocation": ["67.4258", "-128.7941"]
+      "geoLocation": ["67.4258", "-128.7941"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -1715,7 +1715,7 @@
         "name": "Chad",
         "code": "Anguilla"
       },
-      "geolocation": ["-87.1587", "37.3192"]
+      "geoLocation": ["-87.1587", "37.3192"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -1795,7 +1795,7 @@
         "name": "Italy",
         "code": "Algeria"
       },
-      "geolocation": ["-8.0442", "-47.702"]
+      "geoLocation": ["-8.0442", "-47.702"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -1875,7 +1875,7 @@
         "name": "Chad",
         "code": "Tuvalu"
       },
-      "geolocation": ["-2.9529", "-173.9127"]
+      "geoLocation": ["-2.9529", "-173.9127"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -1955,7 +1955,7 @@
         "name": "Svalbard & Jan Mayen Islands",
         "code": "Andorra"
       },
-      "geolocation": ["-84.6261", "3.9961"]
+      "geoLocation": ["-84.6261", "3.9961"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -2035,7 +2035,7 @@
         "name": "Guyana",
         "code": "Wallis and Futuna"
       },
-      "geolocation": ["-31.7237", "-36.0505"]
+      "geoLocation": ["-31.7237", "-36.0505"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -2115,7 +2115,7 @@
         "name": "Uganda",
         "code": "Holy See (Vatican City State)"
       },
-      "geolocation": ["36.0501", "-95.741"]
+      "geoLocation": ["36.0501", "-95.741"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -2195,7 +2195,7 @@
         "name": "Dominican Republic",
         "code": "Bahamas"
       },
-      "geolocation": ["15.7713", "77.7677"]
+      "geoLocation": ["15.7713", "77.7677"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -2275,7 +2275,7 @@
         "name": "Italy",
         "code": "Svalbard & Jan Mayen Islands"
       },
-      "geolocation": ["-27.7335", "91.3821"]
+      "geoLocation": ["-27.7335", "91.3821"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -2355,7 +2355,7 @@
         "name": "Sint Maarten",
         "code": "Lithuania"
       },
-      "geolocation": ["-5.9105", "168.1033"]
+      "geoLocation": ["-5.9105", "168.1033"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -2435,7 +2435,7 @@
         "name": "Grenada",
         "code": "San Marino"
       },
-      "geolocation": ["86.8221", "21.7712"]
+      "geoLocation": ["86.8221", "21.7712"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -2515,7 +2515,7 @@
         "name": "Ethiopia",
         "code": "Kenya"
       },
-      "geolocation": ["-19.5776", "-50.7194"]
+      "geoLocation": ["-19.5776", "-50.7194"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -2595,7 +2595,7 @@
         "name": "Panama",
         "code": "Anguilla"
       },
-      "geolocation": ["64.3291", "-168.9018"]
+      "geoLocation": ["64.3291", "-168.9018"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -2675,7 +2675,7 @@
         "name": "Afghanistan",
         "code": "Mali"
       },
-      "geolocation": ["-83.5782", "-15.8569"]
+      "geoLocation": ["-83.5782", "-15.8569"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -2755,7 +2755,7 @@
         "name": "Guinea",
         "code": "Bangladesh"
       },
-      "geolocation": ["78.7928", "63.5992"]
+      "geoLocation": ["78.7928", "63.5992"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -2835,7 +2835,7 @@
         "name": "Timor-Leste",
         "code": "Tajikistan"
       },
-      "geolocation": ["53.1167", "-36.9502"]
+      "geoLocation": ["53.1167", "-36.9502"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -2915,7 +2915,7 @@
         "name": "France",
         "code": "Sweden"
       },
-      "geolocation": ["-11.2848", "-54.6159"]
+      "geoLocation": ["-11.2848", "-54.6159"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -2995,7 +2995,7 @@
         "name": "American Samoa",
         "code": "Portugal"
       },
-      "geolocation": ["-1.3183", "167.1396"]
+      "geoLocation": ["-1.3183", "167.1396"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -3075,7 +3075,7 @@
         "name": "United Kingdom",
         "code": "Eswatini"
       },
-      "geolocation": ["-66.715", "105.9017"]
+      "geoLocation": ["-66.715", "105.9017"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -3155,7 +3155,7 @@
         "name": "Finland",
         "code": "Sweden"
       },
-      "geolocation": ["-82.9112", "12.1741"]
+      "geoLocation": ["-82.9112", "12.1741"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -3235,7 +3235,7 @@
         "name": "Niger",
         "code": "Georgia"
       },
-      "geolocation": ["-8.3636", "170.1586"]
+      "geoLocation": ["-8.3636", "170.1586"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -3315,7 +3315,7 @@
         "name": "Serbia",
         "code": "Mozambique"
       },
-      "geolocation": ["55.7832", "106.6693"]
+      "geoLocation": ["55.7832", "106.6693"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -3395,7 +3395,7 @@
         "name": "Mexico",
         "code": "Chad"
       },
-      "geolocation": ["-46.4806", "-4.867"]
+      "geoLocation": ["-46.4806", "-4.867"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -3475,7 +3475,7 @@
         "name": "Maldives",
         "code": "Belarus"
       },
-      "geolocation": ["67.094", "-40.4012"]
+      "geoLocation": ["67.094", "-40.4012"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -3555,7 +3555,7 @@
         "name": "Netherlands",
         "code": "Martinique"
       },
-      "geolocation": ["-25.602", "-52.4952"]
+      "geoLocation": ["-25.602", "-52.4952"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -3635,7 +3635,7 @@
         "name": "Virgin Islands, U.S.",
         "code": "Central African Republic"
       },
-      "geolocation": ["69.6267", "77.382"]
+      "geoLocation": ["69.6267", "77.382"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -3715,7 +3715,7 @@
         "name": "Palestine",
         "code": "Lesotho"
       },
-      "geolocation": ["-7.4953", "35.7392"]
+      "geoLocation": ["-7.4953", "35.7392"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -3795,7 +3795,7 @@
         "name": "Georgia",
         "code": "Eritrea"
       },
-      "geolocation": ["-56.7405", "-76.0753"]
+      "geoLocation": ["-56.7405", "-76.0753"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -3875,7 +3875,7 @@
         "name": "New Caledonia",
         "code": "Tuvalu"
       },
-      "geolocation": ["32.3392", "-94.2336"]
+      "geoLocation": ["32.3392", "-94.2336"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -3955,7 +3955,7 @@
         "name": "Vietnam",
         "code": "Kiribati"
       },
-      "geolocation": ["54.3956", "68.6881"]
+      "geoLocation": ["54.3956", "68.6881"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -4035,7 +4035,7 @@
         "name": "Montserrat",
         "code": "Fiji"
       },
-      "geolocation": ["-42.6159", "42.9197"]
+      "geoLocation": ["-42.6159", "42.9197"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -4115,7 +4115,7 @@
         "name": "Australia",
         "code": "Cuba"
       },
-      "geolocation": ["-46.2225", "-62.207"]
+      "geoLocation": ["-46.2225", "-62.207"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -4195,7 +4195,7 @@
         "name": "Uganda",
         "code": "Aruba"
       },
-      "geolocation": ["-31.0394", "-18.8399"]
+      "geoLocation": ["-31.0394", "-18.8399"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -4275,7 +4275,7 @@
         "name": "Marshall Islands",
         "code": "Tokelau"
       },
-      "geolocation": ["89.8907", "-154.951"]
+      "geoLocation": ["89.8907", "-154.951"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -4355,7 +4355,7 @@
         "name": "Colombia",
         "code": "Singapore"
       },
-      "geolocation": ["-84.0054", "-165.3814"]
+      "geoLocation": ["-84.0054", "-165.3814"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -4435,7 +4435,7 @@
         "name": "Maldives",
         "code": "Liberia"
       },
-      "geolocation": ["60.0402", "81.4409"]
+      "geoLocation": ["60.0402", "81.4409"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -4515,7 +4515,7 @@
         "name": "Niue",
         "code": "Zimbabwe"
       },
-      "geolocation": ["53.0133", "-77.7755"]
+      "geoLocation": ["53.0133", "-77.7755"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -4595,7 +4595,7 @@
         "name": "Greenland",
         "code": "Fiji"
       },
-      "geolocation": ["-64.9312", "100.2466"]
+      "geoLocation": ["-64.9312", "100.2466"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -4675,7 +4675,7 @@
         "name": "Panama",
         "code": "Senegal"
       },
-      "geolocation": ["52.8803", "-107.623"]
+      "geoLocation": ["52.8803", "-107.623"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -4755,7 +4755,7 @@
         "name": "French Guiana",
         "code": "Hong Kong"
       },
-      "geolocation": ["-47.518", "157.604"]
+      "geoLocation": ["-47.518", "157.604"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -4835,7 +4835,7 @@
         "name": "Bhutan",
         "code": "Greece"
       },
-      "geolocation": ["-61.2749", "-154.307"]
+      "geoLocation": ["-61.2749", "-154.307"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -4915,7 +4915,7 @@
         "name": "Austria",
         "code": "China"
       },
-      "geolocation": ["-88.1777", "62.0172"]
+      "geoLocation": ["-88.1777", "62.0172"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -4995,7 +4995,7 @@
         "name": "Bulgaria",
         "code": "United Kingdom"
       },
-      "geolocation": ["-54.9039", "-172.8122"]
+      "geoLocation": ["-54.9039", "-172.8122"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -5075,7 +5075,7 @@
         "name": "Tajikistan",
         "code": "Sint Maarten"
       },
-      "geolocation": ["-47.1487", "-111.0777"]
+      "geoLocation": ["-47.1487", "-111.0777"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -5155,7 +5155,7 @@
         "name": "Tanzania",
         "code": "Switzerland"
       },
-      "geolocation": ["52.133", "118.1808"]
+      "geoLocation": ["52.133", "118.1808"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -5235,7 +5235,7 @@
         "name": "Andorra",
         "code": "Antarctica"
       },
-      "geolocation": ["82.8816", "-162.1571"]
+      "geoLocation": ["82.8816", "-162.1571"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -5315,7 +5315,7 @@
         "name": "Russian Federation",
         "code": "San Marino"
       },
-      "geolocation": ["-59.1165", "72.5778"]
+      "geoLocation": ["-59.1165", "72.5778"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -5395,7 +5395,7 @@
         "name": "Yemen",
         "code": "Mongolia"
       },
-      "geolocation": ["47.2945", "-140.5755"]
+      "geoLocation": ["47.2945", "-140.5755"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -5475,7 +5475,7 @@
         "name": "Bouvet Island",
         "code": "Palestine"
       },
-      "geolocation": ["-38.5925", "148.2983"]
+      "geoLocation": ["-38.5925", "148.2983"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -5555,7 +5555,7 @@
         "name": "Monaco",
         "code": "Saint Pierre and Miquelon"
       },
-      "geolocation": ["80.9751", "157.3398"]
+      "geoLocation": ["80.9751", "157.3398"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -5635,7 +5635,7 @@
         "name": "Solomon Islands",
         "code": "Norfolk Island"
       },
-      "geolocation": ["64.2013", "45.9024"]
+      "geoLocation": ["64.2013", "45.9024"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -5715,7 +5715,7 @@
         "name": "Suriname",
         "code": "Malaysia"
       },
-      "geolocation": ["-82.0948", "-8.5403"]
+      "geoLocation": ["-82.0948", "-8.5403"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -5795,7 +5795,7 @@
         "name": "Niger",
         "code": "Greenland"
       },
-      "geolocation": ["-33.856", "85.2322"]
+      "geoLocation": ["-33.856", "85.2322"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -5875,7 +5875,7 @@
         "name": "North Macedonia",
         "code": "South Georgia and the South Sandwich Islands"
       },
-      "geolocation": ["42.212", "145.3008"]
+      "geoLocation": ["42.212", "145.3008"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -5955,7 +5955,7 @@
         "name": "Tokelau",
         "code": "South Sudan"
       },
-      "geolocation": ["58.5791", "6.0285"]
+      "geoLocation": ["58.5791", "6.0285"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -6035,7 +6035,7 @@
         "name": "South Sudan",
         "code": "Saint Helena"
       },
-      "geolocation": ["-63.7348", "-175.9557"]
+      "geoLocation": ["-63.7348", "-175.9557"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -6115,7 +6115,7 @@
         "name": "Isle of Man",
         "code": "Bahrain"
       },
-      "geolocation": ["-6.3469", "74.8048"]
+      "geoLocation": ["-6.3469", "74.8048"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -6195,7 +6195,7 @@
         "name": "Morocco",
         "code": "Oman"
       },
-      "geolocation": ["35.4683", "3.1905"]
+      "geoLocation": ["35.4683", "3.1905"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -6275,7 +6275,7 @@
         "name": "Greece",
         "code": "Liberia"
       },
-      "geolocation": ["-15.0595", "145.7459"]
+      "geoLocation": ["-15.0595", "145.7459"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -6355,7 +6355,7 @@
         "name": "French Southern Territories",
         "code": "Bahamas"
       },
-      "geolocation": ["41.5184", "173.2757"]
+      "geoLocation": ["41.5184", "173.2757"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -6435,7 +6435,7 @@
         "name": "Colombia",
         "code": "Poland"
       },
-      "geolocation": ["-76.4435", "87.8745"]
+      "geoLocation": ["-76.4435", "87.8745"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -6515,7 +6515,7 @@
         "name": "Netherlands",
         "code": "South Georgia and the South Sandwich Islands"
       },
-      "geolocation": ["-75.2334", "165.5363"]
+      "geoLocation": ["-75.2334", "165.5363"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -6595,7 +6595,7 @@
         "name": "Tunisia",
         "code": "Pakistan"
       },
-      "geolocation": ["78.3023", "-169.6903"]
+      "geoLocation": ["78.3023", "-169.6903"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -6675,7 +6675,7 @@
         "name": "Myanmar",
         "code": "Pakistan"
       },
-      "geolocation": ["-28.2961", "126.1587"]
+      "geoLocation": ["-28.2961", "126.1587"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -6755,7 +6755,7 @@
         "name": "Paraguay",
         "code": "Croatia"
       },
-      "geolocation": ["-46.5007", "-43.5844"]
+      "geoLocation": ["-46.5007", "-43.5844"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -6835,7 +6835,7 @@
         "name": "Mongolia",
         "code": "Micronesia"
       },
-      "geolocation": ["-24.5126", "116.1089"]
+      "geoLocation": ["-24.5126", "116.1089"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -6915,7 +6915,7 @@
         "name": "Lesotho",
         "code": "Bonaire, Sint Eustatius and Saba"
       },
-      "geolocation": ["79.8799", "-164.6674"]
+      "geoLocation": ["79.8799", "-164.6674"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -6995,7 +6995,7 @@
         "name": "Tunisia",
         "code": "Mexico"
       },
-      "geolocation": ["-30.4331", "-45.5385"]
+      "geoLocation": ["-30.4331", "-45.5385"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -7075,7 +7075,7 @@
         "name": "Saint Lucia",
         "code": "New Zealand"
       },
-      "geolocation": ["41.5964", "-101.3019"]
+      "geoLocation": ["41.5964", "-101.3019"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -7155,7 +7155,7 @@
         "name": "Qatar",
         "code": "Malawi"
       },
-      "geolocation": ["-35.4459", "122.9967"]
+      "geoLocation": ["-35.4459", "122.9967"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -7235,7 +7235,7 @@
         "name": "Israel",
         "code": "Turkey"
       },
-      "geolocation": ["76.0932", "-122.5314"]
+      "geoLocation": ["76.0932", "-122.5314"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -7315,7 +7315,7 @@
         "name": "Martinique",
         "code": "Spain"
       },
-      "geolocation": ["4.6612", "134.5685"]
+      "geoLocation": ["4.6612", "134.5685"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -7395,7 +7395,7 @@
         "name": "Nicaragua",
         "code": "Spain"
       },
-      "geolocation": ["-32.6601", "55.36"]
+      "geoLocation": ["-32.6601", "55.36"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -7475,7 +7475,7 @@
         "name": "Canada",
         "code": "Isle of Man"
       },
-      "geolocation": ["14.8886", "-45.0258"]
+      "geoLocation": ["14.8886", "-45.0258"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -7555,7 +7555,7 @@
         "name": "Guadeloupe",
         "code": "Sint Maarten"
       },
-      "geolocation": ["-34.8344", "-101.2702"]
+      "geoLocation": ["-34.8344", "-101.2702"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -7635,7 +7635,7 @@
         "name": "Somalia",
         "code": "Greenland"
       },
-      "geolocation": ["-9.3498", "7.5947"]
+      "geoLocation": ["-9.3498", "7.5947"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -7715,7 +7715,7 @@
         "name": "Virgin Islands, U.S.",
         "code": "Philippines"
       },
-      "geolocation": ["-59.6592", "113.0074"]
+      "geoLocation": ["-59.6592", "113.0074"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -7795,7 +7795,7 @@
         "name": "Mexico",
         "code": "Romania"
       },
-      "geolocation": ["40.7736", "-34.6089"]
+      "geoLocation": ["40.7736", "-34.6089"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -7875,7 +7875,7 @@
         "name": "Andorra",
         "code": "Eswatini"
       },
-      "geolocation": ["-19.106", "51.3834"]
+      "geoLocation": ["-19.106", "51.3834"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -7955,7 +7955,7 @@
         "name": "China",
         "code": "Mozambique"
       },
-      "geolocation": ["-29.4986", "154.8118"]
+      "geoLocation": ["-29.4986", "154.8118"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -8035,7 +8035,7 @@
         "name": "Wallis and Futuna",
         "code": "Nauru"
       },
-      "geolocation": ["-84.3435", "-178.9586"]
+      "geoLocation": ["-84.3435", "-178.9586"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -8115,7 +8115,7 @@
         "name": "Virgin Islands, U.S.",
         "code": "Saint Pierre and Miquelon"
       },
-      "geolocation": ["-33.3695", "142.4468"]
+      "geoLocation": ["-33.3695", "142.4468"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -8195,7 +8195,7 @@
         "name": "Poland",
         "code": "Niue"
       },
-      "geolocation": ["60.3984", "93.7866"]
+      "geoLocation": ["60.3984", "93.7866"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -8275,7 +8275,7 @@
         "name": "Antigua and Barbuda",
         "code": "Iran"
       },
-      "geolocation": ["42.3317", "-149.6077"]
+      "geoLocation": ["42.3317", "-149.6077"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -8355,7 +8355,7 @@
         "name": "Virgin Islands, British",
         "code": "Argentina"
       },
-      "geolocation": ["34.0138", "55.857"]
+      "geoLocation": ["34.0138", "55.857"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -8435,7 +8435,7 @@
         "name": "Portugal",
         "code": "Mozambique"
       },
-      "geolocation": ["5.5607", "160.126"]
+      "geoLocation": ["5.5607", "160.126"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -8515,7 +8515,7 @@
         "name": "Reunion",
         "code": "Cambodia"
       },
-      "geolocation": ["-21.8966", "-65.8164"]
+      "geoLocation": ["-21.8966", "-65.8164"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -8595,7 +8595,7 @@
         "name": "Singapore",
         "code": "Myanmar"
       },
-      "geolocation": ["-59.9755", "-18.8926"]
+      "geoLocation": ["-59.9755", "-18.8926"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -8675,7 +8675,7 @@
         "name": "Venezuela",
         "code": "Iran"
       },
-      "geolocation": ["-26.058", "-56.9737"]
+      "geoLocation": ["-26.058", "-56.9737"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -8755,7 +8755,7 @@
         "name": "Sri Lanka",
         "code": "Guinea"
       },
-      "geolocation": ["-58.3786", "-142.5573"]
+      "geoLocation": ["-58.3786", "-142.5573"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -8835,7 +8835,7 @@
         "name": "Latvia",
         "code": "Cook Islands"
       },
-      "geolocation": ["-50.0755", "-116.0483"]
+      "geoLocation": ["-50.0755", "-116.0483"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -8915,7 +8915,7 @@
         "name": "Republic of Korea",
         "code": "Tunisia"
       },
-      "geolocation": ["-81.8258", "-115.6387"]
+      "geoLocation": ["-81.8258", "-115.6387"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -8995,7 +8995,7 @@
         "name": "Namibia",
         "code": "Mali"
       },
-      "geolocation": ["-76.8147", "-13.7824"]
+      "geoLocation": ["-76.8147", "-13.7824"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -9075,7 +9075,7 @@
         "name": "Turks and Caicos Islands",
         "code": "Yemen"
       },
-      "geolocation": ["37.6551", "-39.3611"]
+      "geoLocation": ["37.6551", "-39.3611"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -9155,7 +9155,7 @@
         "name": "Falkland Islands (Malvinas)",
         "code": "Denmark"
       },
-      "geolocation": ["10.0511", "173.0416"]
+      "geoLocation": ["10.0511", "173.0416"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -9235,7 +9235,7 @@
         "name": "Tunisia",
         "code": "Somalia"
       },
-      "geolocation": ["5.631", "136.0668"]
+      "geoLocation": ["5.631", "136.0668"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -9315,7 +9315,7 @@
         "name": "Greenland",
         "code": "Andorra"
       },
-      "geolocation": ["-7.6637", "-144.9334"]
+      "geoLocation": ["-7.6637", "-144.9334"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -9395,7 +9395,7 @@
         "name": "Kenya",
         "code": "Liberia"
       },
-      "geolocation": ["8.7122", "165.6867"]
+      "geoLocation": ["8.7122", "165.6867"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -9475,7 +9475,7 @@
         "name": "Azerbaijan",
         "code": "Gibraltar"
       },
-      "geolocation": ["28.1295", "-91.6463"]
+      "geoLocation": ["28.1295", "-91.6463"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -9555,7 +9555,7 @@
         "name": "Finland",
         "code": "Sweden"
       },
-      "geolocation": ["-84.9305", "-160.6242"]
+      "geoLocation": ["-84.9305", "-160.6242"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -9635,7 +9635,7 @@
         "name": "Samoa",
         "code": "Russian Federation"
       },
-      "geolocation": ["60.6711", "109.8816"]
+      "geoLocation": ["60.6711", "109.8816"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -9715,7 +9715,7 @@
         "name": "New Zealand",
         "code": "Eritrea"
       },
-      "geolocation": ["2.8682", "-24.8692"]
+      "geoLocation": ["2.8682", "-24.8692"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -9795,7 +9795,7 @@
         "name": "South Sudan",
         "code": "Chile"
       },
-      "geolocation": ["67.1407", "-50.032"]
+      "geoLocation": ["67.1407", "-50.032"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -9875,7 +9875,7 @@
         "name": "Iceland",
         "code": "Finland"
       },
-      "geolocation": ["59.7879", "-53.2223"]
+      "geoLocation": ["59.7879", "-53.2223"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -9955,7 +9955,7 @@
         "name": "Aland Islands",
         "code": "Cyprus"
       },
-      "geolocation": ["-48.8632", "-12.948"]
+      "geoLocation": ["-48.8632", "-12.948"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -10035,7 +10035,7 @@
         "name": "Ireland",
         "code": "United Kingdom"
       },
-      "geolocation": ["-29.7437", "-64.6595"]
+      "geoLocation": ["-29.7437", "-64.6595"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -10115,7 +10115,7 @@
         "name": "Yemen",
         "code": "South Africa"
       },
-      "geolocation": ["-56.2166", "-129.5183"]
+      "geoLocation": ["-56.2166", "-129.5183"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -10195,7 +10195,7 @@
         "name": "Poland",
         "code": "Tuvalu"
       },
-      "geolocation": ["59.6028", "30.3597"]
+      "geoLocation": ["59.6028", "30.3597"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -10275,7 +10275,7 @@
         "name": "Central African Republic",
         "code": "Sri Lanka"
       },
-      "geolocation": ["15.6972", "-73.4074"]
+      "geoLocation": ["15.6972", "-73.4074"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -10355,7 +10355,7 @@
         "name": "Norfolk Island",
         "code": "Iceland"
       },
-      "geolocation": ["75.8998", "-157.9387"]
+      "geoLocation": ["75.8998", "-157.9387"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -10435,7 +10435,7 @@
         "name": "Bermuda",
         "code": "Latvia"
       },
-      "geolocation": ["40.6998", "-178.4692"]
+      "geoLocation": ["40.6998", "-178.4692"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -10515,7 +10515,7 @@
         "name": "South Sudan",
         "code": "Gibraltar"
       },
-      "geolocation": ["-46.9276", "-176.2384"]
+      "geoLocation": ["-46.9276", "-176.2384"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -10595,7 +10595,7 @@
         "name": "Italy",
         "code": "Egypt"
       },
-      "geolocation": ["-74.7324", "5.2849"]
+      "geoLocation": ["-74.7324", "5.2849"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -10675,7 +10675,7 @@
         "name": "Saint Helena",
         "code": "Liechtenstein"
       },
-      "geolocation": ["66.3386", "-109.4596"]
+      "geoLocation": ["66.3386", "-109.4596"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -10755,7 +10755,7 @@
         "name": "Botswana",
         "code": "United States of America"
       },
-      "geolocation": ["79.7395", "-159.0392"]
+      "geoLocation": ["79.7395", "-159.0392"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -10835,7 +10835,7 @@
         "name": "Serbia",
         "code": "Palestine"
       },
-      "geolocation": ["-24.5241", "-67.6658"]
+      "geoLocation": ["-24.5241", "-67.6658"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -10915,7 +10915,7 @@
         "name": "Lesotho",
         "code": "India"
       },
-      "geolocation": ["71.5304", "-85.9294"]
+      "geoLocation": ["71.5304", "-85.9294"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -10995,7 +10995,7 @@
         "name": "Saint Martin",
         "code": "Spain"
       },
-      "geolocation": ["-15.6143", "-142.7128"]
+      "geoLocation": ["-15.6143", "-142.7128"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -11075,7 +11075,7 @@
         "name": "Kuwait",
         "code": "Samoa"
       },
-      "geolocation": ["-48.1571", "-32.2359"]
+      "geoLocation": ["-48.1571", "-32.2359"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -11155,7 +11155,7 @@
         "name": "Turkey",
         "code": "Guyana"
       },
-      "geolocation": ["-39.4949", "40.3105"]
+      "geoLocation": ["-39.4949", "40.3105"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -11235,7 +11235,7 @@
         "name": "United States Minor Outlying Islands",
         "code": "Mayotte"
       },
-      "geolocation": ["-60.5744", "-138.4536"]
+      "geoLocation": ["-60.5744", "-138.4536"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -11315,7 +11315,7 @@
         "name": "Faroe Islands",
         "code": "Ghana"
       },
-      "geolocation": ["84.7335", "-12.7355"]
+      "geoLocation": ["84.7335", "-12.7355"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -11395,7 +11395,7 @@
         "name": "Honduras",
         "code": "United States of America"
       },
-      "geolocation": ["-52.3438", "113.0026"]
+      "geoLocation": ["-52.3438", "113.0026"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -11475,7 +11475,7 @@
         "name": "Turks and Caicos Islands",
         "code": "Gibraltar"
       },
-      "geolocation": ["71.5489", "145.4564"]
+      "geoLocation": ["71.5489", "145.4564"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -11555,7 +11555,7 @@
         "name": "Lesotho",
         "code": "Ecuador"
       },
-      "geolocation": ["-2.1753", "30.2031"]
+      "geoLocation": ["-2.1753", "30.2031"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -11635,7 +11635,7 @@
         "name": "Ethiopia",
         "code": "Democratic Republic of the Congo"
       },
-      "geolocation": ["21.7549", "29.8363"]
+      "geoLocation": ["21.7549", "29.8363"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -11715,7 +11715,7 @@
         "name": "Saint Lucia",
         "code": "Costa Rica"
       },
-      "geolocation": ["28.1823", "-144.4196"]
+      "geoLocation": ["28.1823", "-144.4196"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -11795,7 +11795,7 @@
         "name": "Benin",
         "code": "Ecuador"
       },
-      "geolocation": ["-22.1994", "-152.6377"]
+      "geoLocation": ["-22.1994", "-152.6377"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -11875,7 +11875,7 @@
         "name": "Canada",
         "code": "Lao People's Democratic Republic"
       },
-      "geolocation": ["86.3698", "81.4952"]
+      "geoLocation": ["86.3698", "81.4952"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -11955,7 +11955,7 @@
         "name": "Solomon Islands",
         "code": "Azerbaijan"
       },
-      "geolocation": ["-89.6615", "137.8313"]
+      "geoLocation": ["-89.6615", "137.8313"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -12035,7 +12035,7 @@
         "name": "Philippines",
         "code": "Zambia"
       },
-      "geolocation": ["15.782", "-97.3264"]
+      "geoLocation": ["15.782", "-97.3264"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -12115,7 +12115,7 @@
         "name": "Holy See (Vatican City State)",
         "code": "Gambia"
       },
-      "geolocation": ["87.7794", "115.6955"]
+      "geoLocation": ["87.7794", "115.6955"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -12195,7 +12195,7 @@
         "name": "Kyrgyz Republic",
         "code": "Angola"
       },
-      "geolocation": ["-75.4887", "-26.6573"]
+      "geoLocation": ["-75.4887", "-26.6573"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -12275,7 +12275,7 @@
         "name": "Palestine",
         "code": "Fiji"
       },
-      "geolocation": ["-10.5127", "141.1951"]
+      "geoLocation": ["-10.5127", "141.1951"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -12355,7 +12355,7 @@
         "name": "Western Sahara",
         "code": "Luxembourg"
       },
-      "geolocation": ["89.5435", "-58.7912"]
+      "geoLocation": ["89.5435", "-58.7912"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -12435,7 +12435,7 @@
         "name": "Kiribati",
         "code": "Bosnia and Herzegovina"
       },
-      "geolocation": ["-48.1661", "-161.2851"]
+      "geoLocation": ["-48.1661", "-161.2851"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -12515,7 +12515,7 @@
         "name": "Bolivia",
         "code": "Turks and Caicos Islands"
       },
-      "geolocation": ["-44.8394", "-178.4215"]
+      "geoLocation": ["-44.8394", "-178.4215"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -12595,7 +12595,7 @@
         "name": "Azerbaijan",
         "code": "China"
       },
-      "geolocation": ["-48.4593", "-176.7205"]
+      "geoLocation": ["-48.4593", "-176.7205"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -12675,7 +12675,7 @@
         "name": "Sudan",
         "code": "Papua New Guinea"
       },
-      "geolocation": ["69.289", "-92.3533"]
+      "geoLocation": ["69.289", "-92.3533"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -12755,7 +12755,7 @@
         "name": "Guinea",
         "code": "Belarus"
       },
-      "geolocation": ["64.9443", "-83.5208"]
+      "geoLocation": ["64.9443", "-83.5208"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -12835,7 +12835,7 @@
         "name": "Papua New Guinea",
         "code": "Malta"
       },
-      "geolocation": ["64.308", "-65.0634"]
+      "geoLocation": ["64.308", "-65.0634"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -12915,7 +12915,7 @@
         "name": "Afghanistan",
         "code": "Iraq"
       },
-      "geolocation": ["4.5721", "-111.8156"]
+      "geoLocation": ["4.5721", "-111.8156"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -12995,7 +12995,7 @@
         "name": "Reunion",
         "code": "Tanzania"
       },
-      "geolocation": ["-14.9644", "110.7359"]
+      "geoLocation": ["-14.9644", "110.7359"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -13075,7 +13075,7 @@
         "name": "Uruguay",
         "code": "Ethiopia"
       },
-      "geolocation": ["-63.2184", "-104.7374"]
+      "geoLocation": ["-63.2184", "-104.7374"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -13155,7 +13155,7 @@
         "name": "Grenada",
         "code": "Haiti"
       },
-      "geolocation": ["55.7407", "-15.5032"]
+      "geoLocation": ["55.7407", "-15.5032"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -13235,7 +13235,7 @@
         "name": "American Samoa",
         "code": "Trinidad and Tobago"
       },
-      "geolocation": ["58.415", "159.7082"]
+      "geoLocation": ["58.415", "159.7082"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -13315,7 +13315,7 @@
         "name": "Chile",
         "code": "Bahamas"
       },
-      "geolocation": ["-88.8868", "-18.484"]
+      "geoLocation": ["-88.8868", "-18.484"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -13395,7 +13395,7 @@
         "name": "Grenada",
         "code": "United States Minor Outlying Islands"
       },
-      "geolocation": ["-39.4426", "131.1093"]
+      "geoLocation": ["-39.4426", "131.1093"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -13475,7 +13475,7 @@
         "name": "Bosnia and Herzegovina",
         "code": "Malawi"
       },
-      "geolocation": ["23.0139", "82.4756"]
+      "geoLocation": ["23.0139", "82.4756"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -13555,7 +13555,7 @@
         "name": "Nicaragua",
         "code": "Dominican Republic"
       },
-      "geolocation": ["-89.7829", "-6.2833"]
+      "geoLocation": ["-89.7829", "-6.2833"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -13635,7 +13635,7 @@
         "name": "Monaco",
         "code": "Benin"
       },
-      "geolocation": ["-16.4988", "-172.6047"]
+      "geoLocation": ["-16.4988", "-172.6047"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -13715,7 +13715,7 @@
         "name": "Mongolia",
         "code": "Saint Vincent and the Grenadines"
       },
-      "geolocation": ["22.6516", "52.6873"]
+      "geoLocation": ["22.6516", "52.6873"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -13795,7 +13795,7 @@
         "name": "Uganda",
         "code": "Puerto Rico"
       },
-      "geolocation": ["1.2802", "-105.7882"]
+      "geoLocation": ["1.2802", "-105.7882"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -13875,7 +13875,7 @@
         "name": "Jordan",
         "code": "Madagascar"
       },
-      "geolocation": ["-50.5786", "-121.8434"]
+      "geoLocation": ["-50.5786", "-121.8434"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -13955,7 +13955,7 @@
         "name": "Algeria",
         "code": "Armenia"
       },
-      "geolocation": ["33.9526", "164.1239"]
+      "geoLocation": ["33.9526", "164.1239"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -14035,7 +14035,7 @@
         "name": "Brazil",
         "code": "Gabon"
       },
-      "geolocation": ["-42.8957", "44.6585"]
+      "geoLocation": ["-42.8957", "44.6585"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -14115,7 +14115,7 @@
         "name": "Pitcairn Islands",
         "code": "Afghanistan"
       },
-      "geolocation": ["-35.328", "160.9165"]
+      "geoLocation": ["-35.328", "160.9165"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -14195,7 +14195,7 @@
         "name": "Sierra Leone",
         "code": "Saint Vincent and the Grenadines"
       },
-      "geolocation": ["-7.6016", "-49.9389"]
+      "geoLocation": ["-7.6016", "-49.9389"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -14275,7 +14275,7 @@
         "name": "Barbados",
         "code": "Peru"
       },
-      "geolocation": ["-84.4552", "-17.7812"]
+      "geoLocation": ["-84.4552", "-17.7812"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -14355,7 +14355,7 @@
         "name": "United States of America",
         "code": "Japan"
       },
-      "geolocation": ["83.9737", "-165.3478"]
+      "geoLocation": ["83.9737", "-165.3478"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -14435,7 +14435,7 @@
         "name": "Iceland",
         "code": "Iran"
       },
-      "geolocation": ["-56.2247", "71.6664"]
+      "geoLocation": ["-56.2247", "71.6664"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -14515,7 +14515,7 @@
         "name": "Maldives",
         "code": "Seychelles"
       },
-      "geolocation": ["0.7579", "-20.8898"]
+      "geoLocation": ["0.7579", "-20.8898"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -14595,7 +14595,7 @@
         "name": "Gambia",
         "code": "Peru"
       },
-      "geolocation": ["32.7822", "-48.3097"]
+      "geoLocation": ["32.7822", "-48.3097"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -14675,7 +14675,7 @@
         "name": "China",
         "code": "Burundi"
       },
-      "geolocation": ["-40.4261", "149.9701"]
+      "geoLocation": ["-40.4261", "149.9701"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -14755,7 +14755,7 @@
         "name": "Bermuda",
         "code": "Somalia"
       },
-      "geolocation": ["10.8626", "-124.8945"]
+      "geoLocation": ["10.8626", "-124.8945"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -14835,7 +14835,7 @@
         "name": "Pitcairn Islands",
         "code": "Benin"
       },
-      "geolocation": ["44.0361", "29.5903"]
+      "geoLocation": ["44.0361", "29.5903"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -14915,7 +14915,7 @@
         "name": "Samoa",
         "code": "Uruguay"
       },
-      "geolocation": ["79.9851", "-85.9342"]
+      "geoLocation": ["79.9851", "-85.9342"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -14995,7 +14995,7 @@
         "name": "Bangladesh",
         "code": "Lesotho"
       },
-      "geolocation": ["70.6277", "61.3153"]
+      "geoLocation": ["70.6277", "61.3153"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -15075,7 +15075,7 @@
         "name": "Saint Martin",
         "code": "Argentina"
       },
-      "geolocation": ["54.2589", "-72.4819"]
+      "geoLocation": ["54.2589", "-72.4819"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -15155,7 +15155,7 @@
         "name": "Spain",
         "code": "Jordan"
       },
-      "geolocation": ["13.5995", "-62.2033"]
+      "geoLocation": ["13.5995", "-62.2033"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -15235,7 +15235,7 @@
         "name": "Seychelles",
         "code": "Philippines"
       },
-      "geolocation": ["-6.842", "43.7992"]
+      "geoLocation": ["-6.842", "43.7992"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -15315,7 +15315,7 @@
         "name": "Angola",
         "code": "Cape Verde"
       },
-      "geolocation": ["24.2073", "169.5534"]
+      "geoLocation": ["24.2073", "169.5534"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -15395,7 +15395,7 @@
         "name": "China",
         "code": "Cocos (Keeling) Islands"
       },
-      "geolocation": ["54.3929", "6.3051"]
+      "geoLocation": ["54.3929", "6.3051"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -15475,7 +15475,7 @@
         "name": "Pakistan",
         "code": "Tuvalu"
       },
-      "geolocation": ["84.0247", "106.4621"]
+      "geoLocation": ["84.0247", "106.4621"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -15555,7 +15555,7 @@
         "name": "Mexico",
         "code": "Kazakhstan"
       },
-      "geolocation": ["-86.1534", "-58.2263"]
+      "geoLocation": ["-86.1534", "-58.2263"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -15635,7 +15635,7 @@
         "name": "El Salvador",
         "code": "Cambodia"
       },
-      "geolocation": ["0.2211", "43.5754"]
+      "geoLocation": ["0.2211", "43.5754"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -15715,7 +15715,7 @@
         "name": "Russian Federation",
         "code": "Uruguay"
       },
-      "geolocation": ["-63.5426", "-12.0965"]
+      "geoLocation": ["-63.5426", "-12.0965"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -15795,7 +15795,7 @@
         "name": "Slovenia",
         "code": "Kuwait"
       },
-      "geolocation": ["77.982", "-118.7354"]
+      "geoLocation": ["77.982", "-118.7354"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -15875,7 +15875,7 @@
         "name": "Norfolk Island",
         "code": "Tokelau"
       },
-      "geolocation": ["-19.3538", "136.9521"]
+      "geoLocation": ["-19.3538", "136.9521"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -15955,7 +15955,7 @@
         "name": "Germany",
         "code": "Pakistan"
       },
-      "geolocation": ["30.2316", "-77.4488"]
+      "geoLocation": ["30.2316", "-77.4488"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -16035,7 +16035,7 @@
         "name": "Ukraine",
         "code": "Turks and Caicos Islands"
       },
-      "geolocation": ["-49.4683", "20.7381"]
+      "geoLocation": ["-49.4683", "20.7381"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -16115,7 +16115,7 @@
         "name": "Latvia",
         "code": "Turkmenistan"
       },
-      "geolocation": ["45.2545", "-26.6186"]
+      "geoLocation": ["45.2545", "-26.6186"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -16195,7 +16195,7 @@
         "name": "Western Sahara",
         "code": "Cameroon"
       },
-      "geolocation": ["74.5255", "-175.9774"]
+      "geoLocation": ["74.5255", "-175.9774"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -16275,7 +16275,7 @@
         "name": "Libyan Arab Jamahiriya",
         "code": "Senegal"
       },
-      "geolocation": ["-0.1315", "139.2958"]
+      "geoLocation": ["-0.1315", "139.2958"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -16355,7 +16355,7 @@
         "name": "Cambodia",
         "code": "Azerbaijan"
       },
-      "geolocation": ["-51.5572", "-62.0401"]
+      "geoLocation": ["-51.5572", "-62.0401"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -16435,7 +16435,7 @@
         "name": "Faroe Islands",
         "code": "French Guiana"
       },
-      "geolocation": ["24.3246", "-120.6893"]
+      "geoLocation": ["24.3246", "-120.6893"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -16515,7 +16515,7 @@
         "name": "Bolivia",
         "code": "Gambia"
       },
-      "geolocation": ["1.5461", "-101.7455"]
+      "geoLocation": ["1.5461", "-101.7455"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -16595,7 +16595,7 @@
         "name": "Eritrea",
         "code": "Curacao"
       },
-      "geolocation": ["9.5536", "-158.4737"]
+      "geoLocation": ["9.5536", "-158.4737"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -16675,7 +16675,7 @@
         "name": "Malaysia",
         "code": "Zimbabwe"
       },
-      "geolocation": ["85.8154", "28.9774"]
+      "geoLocation": ["85.8154", "28.9774"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -16755,7 +16755,7 @@
         "name": "South Sudan",
         "code": "France"
       },
-      "geolocation": ["41.7977", "-3.2158"]
+      "geoLocation": ["41.7977", "-3.2158"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -16835,7 +16835,7 @@
         "name": "Hungary",
         "code": "Romania"
       },
-      "geolocation": ["84.8155", "46.8828"]
+      "geoLocation": ["84.8155", "46.8828"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -16915,7 +16915,7 @@
         "name": "Armenia",
         "code": "Togo"
       },
-      "geolocation": ["-0.5819", "19.7672"]
+      "geoLocation": ["-0.5819", "19.7672"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -16995,7 +16995,7 @@
         "name": "Argentina",
         "code": "Indonesia"
       },
-      "geolocation": ["-58.7275", "-31.7932"]
+      "geoLocation": ["-58.7275", "-31.7932"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -17075,7 +17075,7 @@
         "name": "Gabon",
         "code": "Panama"
       },
-      "geolocation": ["51.2769", "-84.7103"]
+      "geoLocation": ["51.2769", "-84.7103"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -17155,7 +17155,7 @@
         "name": "Iran",
         "code": "Aruba"
       },
-      "geolocation": ["22.9877", "139.829"]
+      "geoLocation": ["22.9877", "139.829"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -17235,7 +17235,7 @@
         "name": "Mauritius",
         "code": "Pitcairn Islands"
       },
-      "geolocation": ["7.0875", "164.5927"]
+      "geoLocation": ["7.0875", "164.5927"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -17315,7 +17315,7 @@
         "name": "Netherlands",
         "code": "Cambodia"
       },
-      "geolocation": ["-73.0359", "116.2869"]
+      "geoLocation": ["-73.0359", "116.2869"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -17395,7 +17395,7 @@
         "name": "El Salvador",
         "code": "Norfolk Island"
       },
-      "geolocation": ["72.5406", "58.0814"]
+      "geoLocation": ["72.5406", "58.0814"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -17475,7 +17475,7 @@
         "name": "Mauritania",
         "code": "Timor-Leste"
       },
-      "geolocation": ["-27.9921", "-128.6384"]
+      "geoLocation": ["-27.9921", "-128.6384"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -17555,7 +17555,7 @@
         "name": "South Georgia and the South Sandwich Islands",
         "code": "Cambodia"
       },
-      "geolocation": ["46.8969", "142.3992"]
+      "geoLocation": ["46.8969", "142.3992"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -17635,7 +17635,7 @@
         "name": "Hong Kong",
         "code": "Mexico"
       },
-      "geolocation": ["61.6983", "3.3515"]
+      "geoLocation": ["61.6983", "3.3515"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -17715,7 +17715,7 @@
         "name": "Bosnia and Herzegovina",
         "code": "Cameroon"
       },
-      "geolocation": ["78.0619", "-157.8998"]
+      "geoLocation": ["78.0619", "-157.8998"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -17795,7 +17795,7 @@
         "name": "Kazakhstan",
         "code": "Honduras"
       },
-      "geolocation": ["66.1335", "11.1646"]
+      "geoLocation": ["66.1335", "11.1646"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -17875,7 +17875,7 @@
         "name": "Kazakhstan",
         "code": "American Samoa"
       },
-      "geolocation": ["61.8034", "-12.6633"]
+      "geoLocation": ["61.8034", "-12.6633"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -17955,7 +17955,7 @@
         "name": "Canada",
         "code": "Malawi"
       },
-      "geolocation": ["-70.2702", "144.7895"]
+      "geoLocation": ["-70.2702", "144.7895"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -18035,7 +18035,7 @@
         "name": "Yemen",
         "code": "Turkey"
       },
-      "geolocation": ["-21.6927", "-86.066"]
+      "geoLocation": ["-21.6927", "-86.066"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -18115,7 +18115,7 @@
         "name": "Finland",
         "code": "Mozambique"
       },
-      "geolocation": ["21.6801", "136.871"]
+      "geoLocation": ["21.6801", "136.871"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -18195,7 +18195,7 @@
         "name": "Saint Kitts and Nevis",
         "code": "Burkina Faso"
       },
-      "geolocation": ["-73.1715", "-87.1011"]
+      "geoLocation": ["-73.1715", "-87.1011"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -18275,7 +18275,7 @@
         "name": "Palau",
         "code": "Honduras"
       },
-      "geolocation": ["60.7815", "64.2439"]
+      "geoLocation": ["60.7815", "64.2439"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -18355,7 +18355,7 @@
         "name": "Colombia",
         "code": "Senegal"
       },
-      "geolocation": ["52.0214", "-98.6997"]
+      "geoLocation": ["52.0214", "-98.6997"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -18435,7 +18435,7 @@
         "name": "Tonga",
         "code": "Bolivia"
       },
-      "geolocation": ["-30.2328", "9.6535"]
+      "geoLocation": ["-30.2328", "9.6535"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -18515,7 +18515,7 @@
         "name": "French Guiana",
         "code": "Saint Barthelemy"
       },
-      "geolocation": ["-60.714", "27.004"]
+      "geoLocation": ["-60.714", "27.004"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -18595,7 +18595,7 @@
         "name": "Haiti",
         "code": "San Marino"
       },
-      "geolocation": ["6.1802", "-37.2193"]
+      "geoLocation": ["6.1802", "-37.2193"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -18675,7 +18675,7 @@
         "name": "Vanuatu",
         "code": "Kyrgyz Republic"
       },
-      "geolocation": ["65.0839", "-133.2321"]
+      "geoLocation": ["65.0839", "-133.2321"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -18755,7 +18755,7 @@
         "name": "Andorra",
         "code": "Morocco"
       },
-      "geolocation": ["68.376", "88.023"]
+      "geoLocation": ["68.376", "88.023"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -18835,7 +18835,7 @@
         "name": "Vanuatu",
         "code": "Christmas Island"
       },
-      "geolocation": ["63.4835", "-149.8497"]
+      "geoLocation": ["63.4835", "-149.8497"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -18915,7 +18915,7 @@
         "name": "Reunion",
         "code": "Christmas Island"
       },
-      "geolocation": ["-1.0006", "-95.8246"]
+      "geoLocation": ["-1.0006", "-95.8246"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -18995,7 +18995,7 @@
         "name": "Lao People's Democratic Republic",
         "code": "Montenegro"
       },
-      "geolocation": ["63.4403", "-117.5039"]
+      "geoLocation": ["63.4403", "-117.5039"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -19075,7 +19075,7 @@
         "name": "Cambodia",
         "code": "United States Minor Outlying Islands"
       },
-      "geolocation": ["-52.4028", "-37.98"]
+      "geoLocation": ["-52.4028", "-37.98"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -19155,7 +19155,7 @@
         "name": "Antarctica",
         "code": "Nauru"
       },
-      "geolocation": ["-58.9478", "143.5265"]
+      "geoLocation": ["-58.9478", "143.5265"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -19235,7 +19235,7 @@
         "name": "Lithuania",
         "code": "Azerbaijan"
       },
-      "geolocation": ["60.3451", "10.0816"]
+      "geoLocation": ["60.3451", "10.0816"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -19315,7 +19315,7 @@
         "name": "Cape Verde",
         "code": "Papua New Guinea"
       },
-      "geolocation": ["67.9884", "-172.8047"]
+      "geoLocation": ["67.9884", "-172.8047"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -19395,7 +19395,7 @@
         "name": "Benin",
         "code": "Seychelles"
       },
-      "geolocation": ["53.7462", "111.7925"]
+      "geoLocation": ["53.7462", "111.7925"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -19475,7 +19475,7 @@
         "name": "Tuvalu",
         "code": "South Africa"
       },
-      "geolocation": ["33.6742", "-141.9516"]
+      "geoLocation": ["33.6742", "-141.9516"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -19555,7 +19555,7 @@
         "name": "Virgin Islands, British",
         "code": "Cameroon"
       },
-      "geolocation": ["-14.3758", "36.9864"]
+      "geoLocation": ["-14.3758", "36.9864"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -19635,7 +19635,7 @@
         "name": "Burundi",
         "code": "Reunion"
       },
-      "geolocation": ["-42.8443", "-178.4693"]
+      "geoLocation": ["-42.8443", "-178.4693"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -19715,7 +19715,7 @@
         "name": "Luxembourg",
         "code": "Angola"
       },
-      "geolocation": ["31.8438", "173.1233"]
+      "geoLocation": ["31.8438", "173.1233"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -19795,7 +19795,7 @@
         "name": "Martinique",
         "code": "Timor-Leste"
       },
-      "geolocation": ["-58.7704", "70.4312"]
+      "geoLocation": ["-58.7704", "70.4312"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -19875,7 +19875,7 @@
         "name": "Turkey",
         "code": "Saint Pierre and Miquelon"
       },
-      "geolocation": ["11.7553", "82.9087"]
+      "geoLocation": ["11.7553", "82.9087"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -19955,7 +19955,7 @@
         "name": "Austria",
         "code": "Angola"
       },
-      "geolocation": ["35.7126", "162.5164"]
+      "geoLocation": ["35.7126", "162.5164"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -20035,7 +20035,7 @@
         "name": "Lao People's Democratic Republic",
         "code": "Gambia"
       },
-      "geolocation": ["16.9502", "-13.89"]
+      "geoLocation": ["16.9502", "-13.89"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -20115,7 +20115,7 @@
         "name": "Iraq",
         "code": "Botswana"
       },
-      "geolocation": ["22.6868", "-145.6602"]
+      "geoLocation": ["22.6868", "-145.6602"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -20195,7 +20195,7 @@
         "name": "Kyrgyz Republic",
         "code": "Bahrain"
       },
-      "geolocation": ["-49.2315", "-108.1217"]
+      "geoLocation": ["-49.2315", "-108.1217"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -20275,7 +20275,7 @@
         "name": "Dominica",
         "code": "Guatemala"
       },
-      "geolocation": ["-23.2821", "-87.6804"]
+      "geoLocation": ["-23.2821", "-87.6804"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -20355,7 +20355,7 @@
         "name": "Svalbard & Jan Mayen Islands",
         "code": "Saint Lucia"
       },
-      "geolocation": ["89.8538", "97.4434"]
+      "geoLocation": ["89.8538", "97.4434"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -20435,7 +20435,7 @@
         "name": "Serbia",
         "code": "Martinique"
       },
-      "geolocation": ["-39.3614", "-93.0659"]
+      "geoLocation": ["-39.3614", "-93.0659"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -20515,7 +20515,7 @@
         "name": "Mongolia",
         "code": "Venezuela"
       },
-      "geolocation": ["-62.1086", "-132.517"]
+      "geoLocation": ["-62.1086", "-132.517"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -20595,7 +20595,7 @@
         "name": "Belize",
         "code": "Trinidad and Tobago"
       },
-      "geolocation": ["-1.4824", "79.5243"]
+      "geoLocation": ["-1.4824", "79.5243"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -20675,7 +20675,7 @@
         "name": "Canada",
         "code": "Ireland"
       },
-      "geolocation": ["-81.7665", "37.7335"]
+      "geoLocation": ["-81.7665", "37.7335"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -20755,7 +20755,7 @@
         "name": "British Indian Ocean Territory (Chagos Archipelago)",
         "code": "Czechia"
       },
-      "geolocation": ["6.3494", "-99.448"]
+      "geoLocation": ["6.3494", "-99.448"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -20835,7 +20835,7 @@
         "name": "Malta",
         "code": "Equatorial Guinea"
       },
-      "geolocation": ["68.3925", "-31.4157"]
+      "geoLocation": ["68.3925", "-31.4157"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -20915,7 +20915,7 @@
         "name": "Malaysia",
         "code": "Kazakhstan"
       },
-      "geolocation": ["24.6699", "-60.2994"]
+      "geoLocation": ["24.6699", "-60.2994"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -20995,7 +20995,7 @@
         "name": "Monaco",
         "code": "Jamaica"
       },
-      "geolocation": ["-49.743", "163.1421"]
+      "geoLocation": ["-49.743", "163.1421"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -21075,7 +21075,7 @@
         "name": "Yemen",
         "code": "Lao People's Democratic Republic"
       },
-      "geolocation": ["69.0736", "143.6436"]
+      "geoLocation": ["69.0736", "143.6436"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -21155,7 +21155,7 @@
         "name": "San Marino",
         "code": "Libyan Arab Jamahiriya"
       },
-      "geolocation": ["-5.5391", "157.9205"]
+      "geoLocation": ["-5.5391", "157.9205"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -21235,7 +21235,7 @@
         "name": "Sudan",
         "code": "Ukraine"
       },
-      "geolocation": ["-59.8839", "49.3343"]
+      "geoLocation": ["-59.8839", "49.3343"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -21315,7 +21315,7 @@
         "name": "Philippines",
         "code": "Wallis and Futuna"
       },
-      "geolocation": ["-24.9559", "88.3063"]
+      "geoLocation": ["-24.9559", "88.3063"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -21395,7 +21395,7 @@
         "name": "Guernsey",
         "code": "Papua New Guinea"
       },
-      "geolocation": ["-23.6432", "178.0863"]
+      "geoLocation": ["-23.6432", "178.0863"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -21475,7 +21475,7 @@
         "name": "Saint Pierre and Miquelon",
         "code": "Romania"
       },
-      "geolocation": ["-71.3325", "-91.8375"]
+      "geoLocation": ["-71.3325", "-91.8375"]
     },
     "pickupAddress": {
       "floor": "10",
@@ -21555,7 +21555,7 @@
         "name": "Marshall Islands",
         "code": "Sao Tome and Principe"
       },
-      "geolocation": ["-81.1665", "93.082"]
+      "geoLocation": ["-81.1665", "93.082"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -21635,7 +21635,7 @@
         "name": "Paraguay",
         "code": "Liberia"
       },
-      "geolocation": ["-36.9649", "-77.9039"]
+      "geoLocation": ["-36.9649", "-77.9039"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -21715,7 +21715,7 @@
         "name": "Timor-Leste",
         "code": "Papua New Guinea"
       },
-      "geolocation": ["32.7754", "59.5808"]
+      "geoLocation": ["32.7754", "59.5808"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -21795,7 +21795,7 @@
         "name": "Lesotho",
         "code": "Aruba"
       },
-      "geolocation": ["28.9086", "16.8919"]
+      "geoLocation": ["28.9086", "16.8919"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -21875,7 +21875,7 @@
         "name": "Tajikistan",
         "code": "Democratic Republic of the Congo"
       },
-      "geolocation": ["66.1347", "-175.6975"]
+      "geoLocation": ["66.1347", "-175.6975"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -21955,7 +21955,7 @@
         "name": "Ukraine",
         "code": "Congo"
       },
-      "geolocation": ["-50.6025", "54.8002"]
+      "geoLocation": ["-50.6025", "54.8002"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -22035,7 +22035,7 @@
         "name": "Vanuatu",
         "code": "Mexico"
       },
-      "geolocation": ["-41.1199", "175.2005"]
+      "geoLocation": ["-41.1199", "175.2005"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -22115,7 +22115,7 @@
         "name": "Saudi Arabia",
         "code": "Hong Kong"
       },
-      "geolocation": ["-88.4768", "-114.411"]
+      "geoLocation": ["-88.4768", "-114.411"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -22195,7 +22195,7 @@
         "name": "Vietnam",
         "code": "Kiribati"
       },
-      "geolocation": ["-80.2189", "1.4"]
+      "geoLocation": ["-80.2189", "1.4"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -22275,7 +22275,7 @@
         "name": "Svalbard & Jan Mayen Islands",
         "code": "Barbados"
       },
-      "geolocation": ["-49.3587", "150.4495"]
+      "geoLocation": ["-49.3587", "150.4495"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -22355,7 +22355,7 @@
         "name": "Liberia",
         "code": "Kyrgyz Republic"
       },
-      "geolocation": ["57.3387", "-110.5861"]
+      "geoLocation": ["57.3387", "-110.5861"]
     },
     "pickupAddress": {
       "floor": "7",
@@ -22435,7 +22435,7 @@
         "name": "Cyprus",
         "code": "Belgium"
       },
-      "geolocation": ["-10.217", "-126.4223"]
+      "geoLocation": ["-10.217", "-126.4223"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -22515,7 +22515,7 @@
         "name": "Cocos (Keeling) Islands",
         "code": "Nicaragua"
       },
-      "geolocation": ["-39.4148", "58.0995"]
+      "geoLocation": ["-39.4148", "58.0995"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -22595,7 +22595,7 @@
         "name": "Faroe Islands",
         "code": "Turks and Caicos Islands"
       },
-      "geolocation": ["50.1518", "-2.9359"]
+      "geoLocation": ["50.1518", "-2.9359"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -22675,7 +22675,7 @@
         "name": "Marshall Islands",
         "code": "San Marino"
       },
-      "geolocation": ["-57.3009", "163.7179"]
+      "geoLocation": ["-57.3009", "163.7179"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -22755,7 +22755,7 @@
         "name": "Singapore",
         "code": "Uzbekistan"
       },
-      "geolocation": ["-7.9802", "-116.0975"]
+      "geoLocation": ["-7.9802", "-116.0975"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -22835,7 +22835,7 @@
         "name": "Ukraine",
         "code": "Uruguay"
       },
-      "geolocation": ["1.7325", "-10.403"]
+      "geoLocation": ["1.7325", "-10.403"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -22915,7 +22915,7 @@
         "name": "Puerto Rico",
         "code": "Mali"
       },
-      "geolocation": ["53.9819", "164.907"]
+      "geoLocation": ["53.9819", "164.907"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -22995,7 +22995,7 @@
         "name": "South Georgia and the South Sandwich Islands",
         "code": "Haiti"
       },
-      "geolocation": ["56.5089", "47.4969"]
+      "geoLocation": ["56.5089", "47.4969"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -23075,7 +23075,7 @@
         "name": "San Marino",
         "code": "Indonesia"
       },
-      "geolocation": ["42.6988", "134.536"]
+      "geoLocation": ["42.6988", "134.536"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -23155,7 +23155,7 @@
         "name": "Bhutan",
         "code": "Panama"
       },
-      "geolocation": ["7.476", "-74.5516"]
+      "geoLocation": ["7.476", "-74.5516"]
     },
     "pickupAddress": {
       "floor": "5",
@@ -23235,7 +23235,7 @@
         "name": "Syrian Arab Republic",
         "code": "Marshall Islands"
       },
-      "geolocation": ["57.7611", "51.7622"]
+      "geoLocation": ["57.7611", "51.7622"]
     },
     "pickupAddress": {
       "floor": "2",
@@ -23315,7 +23315,7 @@
         "name": "Sierra Leone",
         "code": "Tajikistan"
       },
-      "geolocation": ["-65.9207", "-99.4512"]
+      "geoLocation": ["-65.9207", "-99.4512"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -23395,7 +23395,7 @@
         "name": "Republic of Korea",
         "code": "Chile"
       },
-      "geolocation": ["88.9923", "133.0269"]
+      "geoLocation": ["88.9923", "133.0269"]
     },
     "pickupAddress": {
       "floor": "3",
@@ -23475,7 +23475,7 @@
         "name": "Ghana",
         "code": "Maldives"
       },
-      "geolocation": ["3.2706", "77.6887"]
+      "geoLocation": ["3.2706", "77.6887"]
     },
     "pickupAddress": {
       "floor": "6",
@@ -23555,7 +23555,7 @@
         "name": "Uzbekistan",
         "code": "Saint Kitts and Nevis"
       },
-      "geolocation": ["22.302", "-85.7848"]
+      "geoLocation": ["22.302", "-85.7848"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -23635,7 +23635,7 @@
         "name": "Lesotho",
         "code": "Peru"
       },
-      "geolocation": ["-46.9685", "-21.7207"]
+      "geoLocation": ["-46.9685", "-21.7207"]
     },
     "pickupAddress": {
       "floor": "8",
@@ -23715,7 +23715,7 @@
         "name": "Bahrain",
         "code": "Luxembourg"
       },
-      "geolocation": ["-42.4959", "-67.5226"]
+      "geoLocation": ["-42.4959", "-67.5226"]
     },
     "pickupAddress": {
       "floor": "9",
@@ -23795,7 +23795,7 @@
         "name": "Denmark",
         "code": "Chad"
       },
-      "geolocation": ["44.2909", "84.1442"]
+      "geoLocation": ["44.2909", "84.1442"]
     },
     "pickupAddress": {
       "floor": "4",
@@ -23875,7 +23875,7 @@
         "name": "Holy See (Vatican City State)",
         "code": "Tonga"
       },
-      "geolocation": ["-21.3452", "176.5725"]
+      "geoLocation": ["-21.3452", "176.5725"]
     },
     "pickupAddress": {
       "floor": "1",
@@ -23955,7 +23955,7 @@
         "name": "France",
         "code": "Nauru"
       },
-      "geolocation": ["-45.8817", "9.7985"]
+      "geoLocation": ["-45.8817", "9.7985"]
     },
     "pickupAddress": {
       "floor": "6",

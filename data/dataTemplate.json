@@ -37,7 +37,7 @@
           "name": "country()",
           "code": "country()"
         },
-        "geolocation": ["latitude()", "longitude()"]
+        "geoLocation": ["latitude()", "longitude()"]
       },
       "pickupAddress": {
         "floor": "int(1,10)",
