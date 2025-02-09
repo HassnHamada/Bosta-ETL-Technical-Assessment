@@ -24,7 +24,7 @@ namespace api.Models
         public virtual City? City { get; set; }
         public virtual Zone? Zone { get; set; }
         public virtual Country? Country { get; set; }
-        public virtual ICollection<Order>? DropOffOrders  { get; set; }
-        public virtual ICollection<Order>? PickupOrders   { get; set; }
+        public virtual ICollection<Order>? DropOffOrders { get; set; }
+        public virtual ICollection<Order>? PickupOrders { get; set; }
     }
 }

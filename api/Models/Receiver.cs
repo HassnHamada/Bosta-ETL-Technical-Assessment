@@ -14,6 +14,6 @@ namespace api.Models
         public required string LastName { get; set; }
         public required string Phone { get; set; }
         public virtual ICollection<Order>? Order { get; set; }
-        
+
     }
 }

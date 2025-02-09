@@ -20,7 +20,7 @@ namespace api.Mappers
                 ReceiverId = receiverId,
                 StarId = starId,
                 TypeId = typeId,
-                CollectedFromBusinessDate =  orderCreateDto.CollectedFromBusinessDate,
+                CollectedFromBusinessDate = orderCreateDto.CollectedFromBusinessDate,
                 CreatedAtDate = orderCreateDto.CreatedAtDate,
                 UpdatedAtDate = orderCreateDto.UpdatedAtDate,
                 Tracker = orderCreateDto.Tracker

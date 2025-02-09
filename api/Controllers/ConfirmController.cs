@@ -11,7 +11,7 @@ namespace api.Controllers
 {
     [ApiController]
     [Route("api/Confirm")]
-    public class ConfirmController: ControllerBase
+    public class ConfirmController : ControllerBase
     {
         private readonly IConfirmRepository _confirmRepository;
         public ConfirmController(IConfirmRepository confirmRepository)

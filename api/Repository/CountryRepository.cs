@@ -21,7 +21,8 @@ namespace api.Repository
         {
             await _context.Country.AddAsync(country);
             await _context.SaveChangesAsync();
-            return country;        }
+            return country;
+        }
 
         public Task<Country?> DeleteAsync(int id)
         {
