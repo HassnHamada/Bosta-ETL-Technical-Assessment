@@ -30,7 +30,7 @@ namespace api.Repository
 
         public async Task<List<Order>> ReadAllAsync()
         {
-            return await _context.Order.ToListAsync();
+            return await _context.Order.OrderBy(o => o.Id).ToListAsync();
         }
 
         public async Task<Order?> ReadAsync(int id)

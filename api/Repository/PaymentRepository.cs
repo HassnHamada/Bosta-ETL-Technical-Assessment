@@ -30,7 +30,7 @@ namespace api.Repository
 
         public async Task<List<Payment>> ReadAllAsync()
         {
-            return await _context.Payment.ToListAsync();
+            return await _context.Payment.OrderBy(p => p.Id).ToListAsync();
         }
 
         public async Task<Payment?> ReadAsync(int id)

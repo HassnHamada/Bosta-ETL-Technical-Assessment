@@ -31,7 +31,7 @@ namespace api.Repository
 
         public async Task<List<Star>> ReadAllAsync()
         {
-            return await _context.Star.ToListAsync();
+            return await _context.Star.OrderBy(s => s.Id).ToListAsync();
         }
 
         public async Task<Star?> ReadAsync(int id)

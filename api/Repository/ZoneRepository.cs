@@ -30,7 +30,7 @@ namespace api.Repository
 
         public async Task<List<Zone>> ReadAllAsync()
         {
-            return await _context.Zone.ToListAsync();
+            return await _context.Zone.OrderBy(z => z.Id).ToListAsync();
         }
 
         public async Task<Zone?> ReadAsync(int id)

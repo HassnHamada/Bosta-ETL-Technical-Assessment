@@ -31,7 +31,7 @@ namespace api.Repository
 
         public async Task<List<Address>> ReadAllAsync()
         {
-            return await _context.Addresses.ToListAsync();
+            return await _context.Addresses.OrderBy(a => a.Id).ToListAsync();
         }
 
         public async Task<Address?> ReadAsync(int id)
